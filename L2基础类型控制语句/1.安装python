@@ -1,0 +1,23 @@
+1.安装python
+===
+###（了解）引题
+当我们开始学习if else ，当我们代码更加复杂的时候。Python交互式命令行和sublime和Windows命令行 写代码和运算麻烦。我们想要一个多合一（好像瑞士军刀）功能的工具。
+
+###集成开发工具
+IDE(integrate Developent kit);集成多个功能的卡法工具软件。
+-轻量：sublime
+-重型：pycharm,eclipse,Vscode
+我们这里选择 pycharm
+
+###安装pycharm
+1.[jetbrains官网]
+2.导航/tools/pycharm
+3.点击download后进入下载页【】
+4.版本选择，专业版，功能完善，收费；社区版，功能够用但是阉割功能，免费，我们选择的是windows专业版。
+5.打开EXE安装程序
+6.next下一步，默认安装路径 next
+7.这个向导中，勾选创建快捷方式，（重要)初次安装jetsbrains公司的IDE的时候，要勾选'nistall 	JRE'选项。
+JRE（java runtine enviroment):java运行环境。因为pycharm基于java写的，所以要安装Java的运行环境。
+8.文件夹名保持默认，install
+
+二、会基本操作pycharm.会新建一个项目“tutorial”

@@ -1,0 +1,11 @@
+body{
+    background-color:yellow;
+}
+
+
+#aaa{/*下划线*/
+    text-decoration: underline;
+}
+#ob{/*文字的阴影*/
+    text-shadow:5px 1px 6px #8680ff;
+}
